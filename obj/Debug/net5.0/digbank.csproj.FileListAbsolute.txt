@@ -1,0 +1,16 @@
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\digbank.exe
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\digbank.deps.json
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\digbank.runtimeconfig.json
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\digbank.runtimeconfig.dev.json
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\digbank.dll
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\ref\digbank.dll
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\bin\Debug\net5.0\digbank.pdb
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.csprojAssemblyReference.cache
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.AssemblyInfoInputs.cache
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.AssemblyInfo.cs
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.csproj.CoreCompileInputs.cache
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.dll
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\ref\digbank.dll
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.pdb
+C:\Users\Pedrin\Documents\Asp Net Core\digbank\obj\Debug\net5.0\digbank.genruntimeconfig.cache
